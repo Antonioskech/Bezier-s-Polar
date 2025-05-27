@@ -14,4 +14,4 @@ This project explores the polar representation of Bézier curves, offering a uni
 
 
 ## Mathematical description
-- If you want to understand the project more deeply, open the [Mathematical Description](Mathematical Description.pdf)
+- If you want to understand the project more deeply, open the [Mathematical Description](Mathematical_Description.pdf)
