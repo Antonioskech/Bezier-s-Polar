@@ -10,7 +10,8 @@ This project explores the polar representation of Bézier curves, offering a uni
 
 ## Instructions for using the program
 - Install the whole file
-- look at the Instructions.pdf file
+- look at [Instructions for Using the Program](Instructions_for_Using_the_Program.pdf)
+
 
 ## Mathematical description
-- If you want to understand the project more deeply, open the MathematicalDescription.pdf file
+- If you want to understand the project more deeply, open the [Mathematical Description](Mathematical Description.pdf)
